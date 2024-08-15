@@ -4,7 +4,7 @@
 ## Functionality
 | Functional                                                     | Supported |
 |----------------------------------------------------------------|:---------:|
-| Generator Key For 4Game Hamster Kombat                        |     ✅     |
+| Generator Key For 5Game Hamster Kombat                        |     ✅     |
 
 # ✨ Summary and Useful
 You can Generat your own unique code in less than a minute without needing to play 4 Hamster games, and enter the game . 
