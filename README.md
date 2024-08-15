@@ -1,4 +1,4 @@
-# Hamster-Games-Key
+# Hamster Games Key
 🐹 Hamster game Key Generator
 
 ## Functionality
